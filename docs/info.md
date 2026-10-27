@@ -1,0 +1,1 @@
+- [electronjs-files-structure-and-best-practices](https://hassanagmir.com/blogs/electronjs-files-structure-and-best-practices)
